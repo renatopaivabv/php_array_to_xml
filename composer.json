@@ -1,0 +1,13 @@
+{
+    "name": "renatopaivabv/array_to_xml",
+    "description": "Script que converte array para XML em PHP",
+    "authors": [
+        {
+            "name": "Renato Paiva",
+            "email": "renatopaivabv@gmail.com"
+        }
+    ],
+    "require": {
+        "spatie/array-to-xml": "^2.16"
+    }
+}
