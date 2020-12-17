@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<pedido>
+  <status>Aprovado</status>
+  <listPedItem>
+    <codPedido>123</codPedido>
+    <descricao>AD 054227 PROMOCAO</descricao>
+  </listPedItem>
+  <listPedItem>
+    <codPedido>345</codPedido>
+    <descricao>AD 018239 NORMAL</descricao>
+  </listPedItem>
+</pedido>
